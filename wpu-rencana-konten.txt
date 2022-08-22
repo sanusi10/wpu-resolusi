@@ -3,9 +3,4 @@ rencana konten wpu
 - java skrip
   *es6
   *frameworks javascrip
-   ^angular
-   ^reackt
-- php frameworks
-   ^ralaver
-- interview
-- vlog
+
