@@ -3,7 +3,11 @@ rencana konten wpu
 - java skrip
   *es6
   *frameworks javascrip
+   ^vue
+   ^reack
   struktur data dasar
 - php frameworks
+ ^laravel
 - interview
 - vlog
+- python
