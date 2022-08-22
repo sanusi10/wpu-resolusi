@@ -1,6 +1,8 @@
 rencana konten wpu
 
 - java skrip
+  *es6
+  *frameworks javascrip
 - php frameworks
 - interview
 - vlog
